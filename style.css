@@ -338,7 +338,7 @@ div.frame {
 
 }
 div.frame.img{
-  
+    width: 50px;
 }
 
 .portfolio-header-title {
