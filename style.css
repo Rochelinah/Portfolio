@@ -261,6 +261,7 @@ img.portfolio {
     border-radius: 10px;
     color: black;
     transition: all .2s ease-in-out;
+    text-align: center;
 }
 .link_btn:hover{
     background-color: var(--color1);
@@ -337,7 +338,7 @@ div.frame {
 
 }
 div.frame.img{
-    width: 70px;
+  
 }
 
 .portfolio-header-title {
@@ -370,4 +371,5 @@ img.portfolio {
     min-height: 500px;
     
 }
+
     
